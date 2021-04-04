@@ -37,7 +37,7 @@
         "colorful": "2.1.0",
         "paramrule": "0.0.2",
         "term-list": "~0.2.1",
-        "underscore": "~1.5.2"
+        "underscore": "~1.12.1"
     },
     "devDependencies": {
         "mocha": "*",
